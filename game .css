@@ -1,0 +1,33 @@
+body {
+    background-color: blueviolet;
+    color: azure;
+}
+
+.chess_Board {
+    height: 640px;
+    width: 640px;
+    margin:auto;
+    padding: 0dvh;
+
+}
+
+.box1 {
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    float: left;
+    color: white;
+    font-size: 3.2rem;
+    text-align: center;
+}
+
+.box2 {
+    height: 80px;
+    width: 80px;
+    background: white;
+    float: left;
+    color: black;
+    font-size: 3.2rem;
+    text-align: center;
+
+}
